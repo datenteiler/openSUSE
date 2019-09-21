@@ -1,6 +1,6 @@
 # openSUSE Talk
 
-## Mein openSUSE Talk von den 17. Kieler Open Source und Linux Tage 2019:
+## 17. Kieler Open Source und Linux Tage 2019
 
 openSUSE ist mehr als eine einzelne Linux-Distribution. Das Projekt besteht aus vielen verschiedenen Ausgaben und Tools wie bspw. das stabile Leap, das rollende Tumbleweed, aber auch YaST, Snapper für Rollbacks, Open Build Service und openQA, das auch für andere Distributionen wie z.B. Debian genutzt werden kann.
 
