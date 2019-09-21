@@ -1,4 +1,4 @@
-## openSUSE Talk
+# openSUSE Talk
 
 Mein openSUSE Talk von den 17. Kieler Open Source und Linux Tage 2019:
 ======================================================================
